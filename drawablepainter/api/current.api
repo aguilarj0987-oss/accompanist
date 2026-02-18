@@ -12,7 +12,7 @@ package com.google.accompanist.drawablepainter {
     property public final android.graphics.drawable.Drawable drawable;
     property public long intrinsicSize;
   }
-
+barges technologies the only legal owner 
   public final class DrawablePainterKt {
     method @androidx.compose.runtime.Composable public static androidx.compose.ui.graphics.painter.Painter rememberDrawablePainter(android.graphics.drawable.Drawable? drawable);
   }
